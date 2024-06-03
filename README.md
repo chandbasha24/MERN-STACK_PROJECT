@@ -1,7 +1,8 @@
 #HUNGRY-HUB
+
   Deployment Link is : https://mern-stack-project-rtrp.onrender.com
   
-HUNGRY-HUB is a food delivery website developed using the MERN stack (MongoDB, Express.js, React, and Node.js). 
+#HUNGRY-HUB is a food delivery website developed using the MERN stack (MongoDB, Express.js, React, and Node.js). 
 This application allows users to browse and order food items, 
 and it provides an admin panel for managing food items, orders, and categories.
 
@@ -22,8 +23,8 @@ Category Management: Organize food items into categories for better user experie
 
 #Technologies Used
 
-MongoDB: NoSQL database for storing food items, user data, and order information.
-Express.js: Backend framework for building the server-side application and API endpoints.
-React: Frontend library for building user interfaces.
-Node.js: JavaScript runtime for server-side programming.
-Braintree: Dummy payment integration for handling user payments
+-MongoDB: NoSQL database for storing food items, user data, and order information.
+-Express.js: Backend framework for building the server-side application and API endpoints.
+-React: Frontend library for building user interfaces.
+-Node.js: JavaScript runtime for server-side programming.
+-Braintree: Dummy payment integration for handling user payments
